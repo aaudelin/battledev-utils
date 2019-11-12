@@ -8,8 +8,8 @@ Thus, you might encounter times where your code is working locally but not on th
 ## How to use it
 
 * Step 1 : Download the samples from battledev download feature
-* Step 2 : Unzip the file to a desired folder, this is called the **testsFolder**
-* Step 3 : Implement the algorithm in a java file. The class name is called the **programName** and is located in the **programFolder**
+* Step 2 : Unzip the files to any folder, this folder will b called the **testsFolder**
+* Step 3 : Implement your best algorithm in a java file (you can use `IsoContest.java` sample file. The class name is called the **programName** and is located in the **programFolder**
 * Step 4 : Run the `Main.kt` with 3 arguments in the following order : **programName** **programFolder** **testsFolder**
 
 ## Debug and validate
@@ -18,7 +18,7 @@ In your program you can use `System.out.println` to print your result. You need 
 
 You can also use `System.err.println` to debug anything. You might use it to display the input you receive in your program.
 
-Please refer to `IsoContest.java` sample file
+Please refer to `IsoContest.java` sample file.
 
 ## Results
 
